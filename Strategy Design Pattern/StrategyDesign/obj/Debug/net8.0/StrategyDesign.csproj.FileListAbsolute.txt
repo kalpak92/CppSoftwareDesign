@@ -1,0 +1,15 @@
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\obj\Debug\net8.0\StrategyDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\obj\Debug\net8.0\StrategyDesign.AssemblyInfoInputs.cache
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\obj\Debug\net8.0\StrategyDesign.AssemblyInfo.cs
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\obj\Debug\net8.0\StrategyDesign.csproj.CoreCompileInputs.cache
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\obj\Debug\net8.0\StrategyDesign.sourcelink.json
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\bin\Debug\net8.0\StrategyDesign.exe
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\bin\Debug\net8.0\StrategyDesign.deps.json
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\bin\Debug\net8.0\StrategyDesign.runtimeconfig.json
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\bin\Debug\net8.0\StrategyDesign.dll
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\bin\Debug\net8.0\StrategyDesign.pdb
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\obj\Debug\net8.0\StrategyDesign.dll
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\obj\Debug\net8.0\refint\StrategyDesign.dll
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\obj\Debug\net8.0\StrategyDesign.pdb
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\obj\Debug\net8.0\StrategyDesign.genruntimeconfig.cache
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\StrategyDesign\obj\Debug\net8.0\ref\StrategyDesign.dll

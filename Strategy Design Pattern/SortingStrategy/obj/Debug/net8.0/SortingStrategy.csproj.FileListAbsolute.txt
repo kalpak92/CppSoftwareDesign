@@ -1,0 +1,15 @@
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\obj\Debug\net8.0\SortingStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\obj\Debug\net8.0\SortingStrategy.AssemblyInfoInputs.cache
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\obj\Debug\net8.0\SortingStrategy.AssemblyInfo.cs
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\obj\Debug\net8.0\SortingStrategy.csproj.CoreCompileInputs.cache
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\obj\Debug\net8.0\SortingStrategy.sourcelink.json
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\bin\Debug\net8.0\SortingStrategy.exe
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\bin\Debug\net8.0\SortingStrategy.deps.json
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\bin\Debug\net8.0\SortingStrategy.runtimeconfig.json
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\bin\Debug\net8.0\SortingStrategy.dll
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\bin\Debug\net8.0\SortingStrategy.pdb
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\obj\Debug\net8.0\SortingStrategy.dll
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\obj\Debug\net8.0\refint\SortingStrategy.dll
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\obj\Debug\net8.0\SortingStrategy.pdb
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\obj\Debug\net8.0\SortingStrategy.genruntimeconfig.cache
+C:\Users\kalpakseal\Desktop\CppSoftwareDesign\Strategy Design Pattern\SortingStrategy\obj\Debug\net8.0\ref\SortingStrategy.dll

@@ -2,5 +2,6 @@
     "cmake.configureOnOpen": false,
     "files.associations": {
         "variant": "cpp"
-    }
+    },
+    "dotnet.defaultSolution": "SortingStrategy.sln"
 }
