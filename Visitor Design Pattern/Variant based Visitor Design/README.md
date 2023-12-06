@@ -20,7 +20,6 @@ We can locally decide what we should return, and it is not a base class that, in
 
 > **Implementation flexibility.**
 > **Loose coupling.** 
-> **Amazing!**
 
 The `drawAllShapes()` function is refactored to make use of `std::visit()`. 
 
